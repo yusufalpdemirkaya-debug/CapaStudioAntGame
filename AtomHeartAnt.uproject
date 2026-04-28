@@ -7,15 +7,11 @@
 		{
 			"Name": "AtomHeartAnt",
 			"Type": "Runtime",
-<<<<<<< Updated upstream
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
 				"Engine",
 				"GameplayAbilities"
 			]
-=======
-			"LoadingPhase": "Default"
->>>>>>> Stashed changes
 		}
 	],
 	"Plugins": [
